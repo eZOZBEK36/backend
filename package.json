@@ -14,9 +14,9 @@
   "author": "E'zozbek <ezozbekrasulov789@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.14"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eZOZBEK36/backend.git"
